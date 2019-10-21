@@ -129,9 +129,9 @@ ToD’s may be raised where:
 **Time frame** for discussion - allowing reasonable time to adjust the ToD, if necessary, and for the proposed consultation _mechanism_ \
 **Governance Bodies** to be advised:  e.g. Board, Finance and Audit, or Governance (in the case of a governance change) \
 **Mechanism** proposed for expressing collective sentiment / making decision, including pre and post consultation.  (This should be discussed with the Governance Committee) \
-**Change Log** to record any significant changes to the ToD  (what, who, why, when etc) \
+**Change Log** to record any significant changes to the ToD  (what, who, why, when etc)
 
-*   Submit the proposal to the Governance Committee as an agent of the board to review, register<sup>[1](#myfootnote1)</sup> and agree an appropriate mechanism with the proposer(s).
+*   Submit the proposal to the Governance Committee as an agent of the board to review, register<sup>[4](#myfootnote1)</sup> and agree an appropriate mechanism with the proposer(s).
 
 ### Footnotes
 
