@@ -135,7 +135,7 @@ ToD’s may be raised where:
 
 ### Footnotes
 
-<a name="myfootnote1">1</a>: More details of the background and intent of the original submission are [here]([https://github.com/rchain/legaldocs/blob/master/2018%20Annual%20Meeting/Member%20Participation%20in%20Governance.pdf](https://github.com/rchain/legaldocs/blob/master/2018%20Annual%20Meeting/Member%20Participation%20in%20Governance.pdf)) \
+<a name="myfootnote1">1</a>: More details of the background and intent of the original submission are [here](https://github.com/rchain/legaldocs/blob/master/2018%20Annual%20Meeting/Member%20Participation%20in%20Governance.pdf) \
 <a name="myfootnote1">2</a>: See the RChain website Governance Overview or contact the Governance Committee for guidance. \
 <a name="myfootnote1">3</a>: See Appendix A for the criteria that determine ‘board level significance’ \
 <a name="myfootnote1">4</a>: A reference will be allocated and an entry made in an appropriate decision log.
