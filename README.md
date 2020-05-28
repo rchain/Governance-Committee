@@ -1,5 +1,5 @@
 # Governance-Committee
-[Log adgendas and notes](https://docs.google.com/document/d/1yrCqj5GWKElRVGYrPcrRDOEAZl4ILk3RYv00GFo6Yts/edit#heading=h.malwd4t93r4w)
+[Log adgendas and notes](https://docs.google.com/document/d/1yrCqj5GWKElRVGYrPcrRDOEAZl4ILk3RYv00GFo6Yts/edit#heading=h.malwd4t93r4w),
 [Committee definitions](https://www.google.com/url?q=https://github.com/rchain/Members/wiki/Coop-Committees%23executive-committee&sa=D&ust=1518110646495000&usg=AFQjCNEJsbpg0HcG8aFmghlNKFIhFLOYNQ), [discord channel](https://discordapp.com/channels/375365542359465989/393462637100400650),
 
 [RChain Cooperative Bylaws](https://github.com/rchain/board/blob/master/Bylaws.md) and Board Minutes: [https://github.com/rchain/board](https://github.com/rchain/board) 
