@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+After reading this page, you may replace this content (below line 9) with your ToD.
+
+
 ### Before raising a Topic of Discussion (ToD)
 
 Candidate topics of discussion should first be discussed with other members so that there has been a degree of peer review before invoking this formal process.  Discussion can take place in any appropriate collaboration channel or tool.  Members must make reasonable effort to reach out to and at least inform all parties impacted in the candidate ToD.
@@ -26,14 +29,14 @@ ToD’s may be raised where:
 
 *   Create a ToD document, ideally, in collaboration with peers, that should include: \
  \
-**Title:** short (50 char max) but informative \
-**Description** of ToD (no more than 1 page) \
-**Context**:  link to previous discussion / documents and history of previous submission and outcomes. \
-**Impact** statement:  on co-op ongoing costs, effort, third party / external impact, reputation, external valuation etc.  (Must include timing of impacts, quantified wherever possible - link) \
-**Benefits** statement \
-(Must include timing of benefits, quantified wherever possible - link) \
-**Implementation** Costs, Plan and Risk Assessment  (links)     \
-**Time frame** for discussion - allowing reasonable time to adjust the ToD, if necessary, and for the proposed consultation _mechanism_ \
-**Governance Bodies** to be advised:  e.g. Board, Finance and Audit, or Governance (in the case of a governance change) \
-**Mechanism** proposed for expressing collective sentiment / making decision, including pre and post consultation.  (This should be discussed with the Governance Committee) \
+**Title:** short (50 char max) but informative
+**Description** of ToD (no more than 1 page)
+**Context**:  link to previous discussion / documents and history of previous submission and outcomes.
+**Impact** statement:  on co-op ongoing costs, effort, third party / external impact, reputation, external valuation etc.  (Must include timing of impacts, quantified wherever possible - link)
+**Benefits** statement
+(Must include timing of benefits, quantified wherever possible - link)
+**Implementation** Costs, Plan and Risk Assessment  (links)
+**Time frame** for discussion - allowing reasonable time to adjust the ToD, if necessary, and for the proposed consultation _mechanism_
+**Governance Bodies** to be advised:  e.g. Board, Finance and Audit, or Governance (in the case of a governance change)
+**Mechanism** proposed for expressing collective sentiment / making decision, including pre and post consultation.  (This should be discussed with the Governance Committee)
 **Change Log** to record any significant changes to the ToD  (what, who, why, when etc)
