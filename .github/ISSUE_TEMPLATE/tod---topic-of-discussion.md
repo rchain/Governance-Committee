@@ -1,7 +1,7 @@
 ---
 name: ToD - Topic of Discussion
 about: Formal Process for soliciting Co-op Board action.
-title: "[ToD]"
+title: "[ToD]<!-- title goes here -->"
 labels: ''
 assignees: ''
 
