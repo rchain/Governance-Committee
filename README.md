@@ -1,8 +1,8 @@
 # Governance-Committee
 
-### Charter [(link)](/Governance-Committee_Charter.md)
+### Charter [(Governance-Committee_Charter.md)](/Governance-Committee_Charter.md)
 
-### Purpose [(link)](/Governance-Committee_Charter.md#purpose-and-objectives)
+### Purpose [(from Charter)](/Governance-Committee_Charter.md#purpose-and-objectives)
  - Provide advisory oversight of RCchain Co-operative Governance – the organising structure and processes of decision-making;
  - Ensure that governance design and practice reflects, and balances:
    - Co-op member voice
@@ -22,10 +22,10 @@
    - Theo Hallenius - [@TheoXD#1998]
    - Gary Coulter - [@GaryC#3050]
  
-### Member Participation in Governance (GP001) [(link)](/Member%20Participation%20in%20Governance%20-%20GP001.md)
+### Member Participation in Governance (GP001) [(Member Participation in Governance - GP001.md)](/Member%20Participation%20in%20Governance%20-%20GP001.md)
 At the 2019 Annual Meeting, the Co-op membership approved an item of business to implement procedures whereby a **ToD** (*Topic of Discussion*) might be brought forward by a member or members and addressesed by the Co-op at what ever level is deemed appropriate.
 
- - ToD (*Topic of Discussion*) Instructions [(link)](/Member%20Participation%20in%20Governance%20-%20GP001.md#process)
- - ToD Issue Submission [(link)](https://github.com/rchain/Governance-Committee/issues/new?assignees=&labels=&template=tod---topic-of-discussion.md&title=%5BToD%5D%3C%21--+title+goes+here+--%3E)
+ - ToD (*Topic of Discussion*) Instructions [(from GP001)](/Member%20Participation%20in%20Governance%20-%20GP001.md#process)
+ - ToD Issue [(Submission form)](https://github.com/rchain/Governance-Committee/issues/new?assignees=&labels=&template=tod---topic-of-discussion.md&title=%5BToD%5D%3C%21--+title+goes+here+--%3E)
 
 #### Committee Discussion Channel on RChain Discord: [#governance](https://discord.com/channels/375365542359465989/393462637100400650)
