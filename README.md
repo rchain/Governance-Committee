@@ -13,7 +13,7 @@
  - Support the Co-op, its functions and members with appropriate guidance and recommend tools where appropriate.
 
 ### Committee Members (name - [role], [@Discord ID])
-   - Rao Bhamidipati - [Chair, VP of Governance], [@Rao#4356]
+   - Rao Bhamidipati - [Chair, Board Member, VP of Governance], [@Rao#4356]
    - Steve Henley - [Board Member], [@SteveHenley#4915]
    - Darryl Neudorf - [Board Member], [@DarrylN#4257]
    - Jim Whitescarver - [@jimscarver#5578]
