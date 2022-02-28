@@ -13,14 +13,12 @@
  - Support the Co-op, its functions and members with appropriate guidance and recommend tools where appropriate.
 
 ### Committee Members (name - [role], [@Discord ID])
-   - Steve Ross Talbot - [Cmte Chain Chair], [Board Member], [@steverosstalbot#2679]
-   - Rao Bhamidipati - [VP of Governance], [@Rao#4356]
+   - Rao Bhamidipati - [Chair, VP of Governance], [@Rao#4356]
    - Steve Henley - [Board Member], [@SteveHenley#4915]
    - Darryl Neudorf - [Board Member], [@DarrylN#4257]
    - Jim Whitescarver - [@jimscarver#5578]
    - Ian Bloom - [@ian#4055]
-   - Theo Hallenius - [@TheoXD#1998]
-   - Gary Coulter - [@GaryC#3050]
+   - Theo Hallenius - [Board Member], [@TheoXD#1998]
  
 ### Member Participation in Governance (GP001) [(Member Participation in Governance - GP001.md)](/Member%20Participation%20in%20Governance%20-%20GP001.md)
 At the 2019 Annual Meeting, the Co-op membership approved an item of business to implement procedures whereby a **ToD** (*Topic of Discussion*) might be brought forward by a member or members and addressesed by the Co-op at what ever level is deemed appropriate.
